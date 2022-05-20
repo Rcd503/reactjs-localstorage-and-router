@@ -1,0 +1,31 @@
+/* div {
+  justify-content: "center";
+  background-color: #f0f0f0;
+  color: white;
+  flex-direction: column;
+}; */
+.main {
+    flex: auto;
+    justify-content: "center";
+    /* background-color: #f0f0f0; */
+    /* color: white; */
+    /* flex-direction:row; */
+    align-items: center;
+  }
+  .textField {
+    background-color: #e71f1f;
+    color: rgb(15, 154, 209);
+  }
+  .labelStyle {
+    color: black;
+  }
+  .cardTextStyle {
+    background-color: #e26767;
+    color: black;
+    font-size: 15px;
+    margin-top: 10%;
+  }
+  .btnStyle {
+    margin: 10px;
+  }
+  
